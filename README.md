@@ -1,7 +1,7 @@
 # 💫 Who's Huzaifa:
 👋 Hi there! I'm an Automation Developer and Frontend Developer passionate about:<br><br>🚀 Automating workflows to save time and boost productivity.<br>🎨 Crafting intuitive and interactive user interfaces using React and Angular.<br>🛠️ Solving complex problems with scalable and efficient solutions.<br>🔧 Skills & Expertise<br>Frontend Development: ⚛️ React | 🅰️ Angular | 💡 Tailwind CSS | 🎨 UI/UX Design<br>Automation: 🤖 Workflow Optimization |  | 📊 Data Integration<br>Languages & Tools: 🖥️ JavaScript | 🐍 Python | 🐙 Git | 🌐 APIs<br>🌟 Fun Facts<br>🌱 Currently exploring AI-powered automation and Web3 technologies.<br>🎯 Always aiming for clean, maintainable, and high-performance code.<br>💡 Believer in lifelong learning and staying updated with the latest tech trends.
 
-
+ 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/yaseen.anjum.522/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_they_call_me_huzi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/huzaifa-yasin-1578b6249/) 
 
